@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "346490130254",
+    "firebase_url": "https://my-tiger-home.firebaseio.com",
+    "project_id": "my-tiger-home",
+    "storage_bucket": "my-tiger-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346490130254:android:45cfc76c506d1186",
+        "android_client_info": {
+          "package_name": "com.tiger.myhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346490130254-uch2lk60no0fcorndi1jnsbinr26eobj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "346490130254-uch2lk60no0fcorndi1jnsbinr26eobj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC18bw5zbVvCvAYKi_9KSBXoA4iadvNe24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
